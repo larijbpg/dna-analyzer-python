@@ -1,0 +1,5 @@
+ID_Amostra,Tamanho_bp,Teor_GC_%,Sequencia_Proteica,Status_QC
+seq01_Controle_Positivo,16,62.5,MRRRL,Aprovado
+seq02_Amostra_Paciente_A,16,50.0,MHACM,Reprovado
+seq03_Amostra_Paciente_B,16,100.0,ARARA,Aprovado
+seq04_Amostra_Paciente_C,16,0.0,NLI*F,Reprovado
